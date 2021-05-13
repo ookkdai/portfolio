@@ -1,24 +1,11 @@
-# README
+# ポートフォリオ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* 目次
+    * タイトル
+    * アプリの目的
+    * アプリ開発のストーリ
+    * マインドマップ
+    * 使用技術
+    * 環境
+    * 機能一覧
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
